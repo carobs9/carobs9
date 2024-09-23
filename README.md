@@ -23,19 +23,19 @@ Particularly interested in machine learning, predictive analytics and natural la
 
 ---
 
-[About Me](https://www.notion.so/About-Me-c65d19114e644391acf0beefd37d1880?pvs=21)
+[About Me](https://chocolate-point-2c8.notion.site/About-Me-c65d19114e644391acf0beefd37d1880)
 
 Interests, work and academics.
 
-[Coding Projects](https://www.notion.so/Coding-Projects-081b64771ead4574883b2ee3d90cd4b0?pvs=21)
+[Coding Projects](https://chocolate-point-2c8.notion.site/Coding-Projects-081b64771ead4574883b2ee3d90cd4b0)
 
 Academic and for fun coding-related projects. 
 
-[Resume](https://www.notion.so/Resume-2817f565dc1f4379869e4d8e44e91503?pvs=21)
+[Resume](https://chocolate-point-2c8.notion.site/Resume-2817f565dc1f4379869e4d8e44e91503)
 
 See my full resume as a PDF.
 
-[Extra Stuff](https://www.notion.so/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0?pvs=21)
+[Extra Stuff](https://chocolate-point-2c8.notion.site/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0)
 
 ---
 
