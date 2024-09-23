@@ -4,15 +4,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJqOTB0dWkxZGIwMnhiNmx0OXcyYXY0N3c2MzlxemljemtoMmF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ji6zzUZwNIuLS/giphy.gif" width="100"/>
 </div>
 
-## Cool Stats
-
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=neon&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-
 ## About Me
 
 > [Social Data Science MSc Student](https://studies.ku.dk/masters/social-data-science/) | [University of Copenhagen](https://www.ku.dk/english/)
@@ -20,6 +11,15 @@
 
 Particularly interested in machine learning, predictive analytics and natural language processing to study art, urban mobility and environmental issues.
 
+---
+
+## Cool Stats
+
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=neon&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
