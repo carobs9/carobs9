@@ -37,6 +37,8 @@ See my full resume as a PDF.
 
 [Extra Stuff](https://chocolate-point-2c8.notion.site/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0)
 
+Other interests.
+
 ---
 
 # GitHub Projects
