@@ -37,12 +37,6 @@ See my full resume as a PDF.
 
 [Extra Stuff](https://www.notion.so/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0?pvs=21)
 
-Other interests.
-
-# Skills
-
-[Skills](Carolina%20Bran%CC%83as%20df7a7c372d3d4d4088bcbd8430ff6889/Skills%209c72383248fb43d0a6efe529537ceabc.csv)
-
 ---
 
 # GitHub Projects
@@ -63,7 +57,6 @@ Other interests.
 
 [LinkedIn](https://www.linkedin.com/in/carolinabranas/)
 
-[Email](mailto:carobrasor@gmail.com)
 
 
 
