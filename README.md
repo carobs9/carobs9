@@ -1,5 +1,12 @@
 # Carolina Brañas
 
+<!-- SOURCE: https://github.com/drkostas/drkostas/blob/main/README.md?plain=1 -->
+<p align="center">
+<a href="https://github.com/carobs9">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Carolina+Branas;RA+%7C+Student;+%7C" alt="Typing SVG" />
+</a>
+<br/> 
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJqOTB0dWkxZGIwMnhiNmx0OXcyYXY0N3c2MzlxemljemtoMmF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ji6zzUZwNIuLS/giphy.gif" width="100"/>
 </div>
@@ -19,9 +26,9 @@
   <a href="https://www.linkedin.com/in/carolinabranas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">
-    <img src="https://img.shields.io/badge/Website-purple" alt="Website Badge"/>
-  </a>
+<a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">
+    <img src="https://img.shields.io/badge/Website-carobs9-red?style=flat-square">
+</a> 
 </div>
 -->
 
