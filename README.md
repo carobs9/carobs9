@@ -34,17 +34,7 @@ Particularly interested in machine learning, predictive analytics and natural la
 
 ---
 
-## Cool Stats
-
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=neon&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
----
-
-[About Me](https://chocolate-point-2c8.notion.site/About-Me-c65d19114e644391acf0beefd37d1880)
+[Even More About Me](https://chocolate-point-2c8.notion.site/About-Me-c65d19114e644391acf0beefd37d1880)
 
 Interests, work and academics.
 
@@ -59,6 +49,20 @@ See my full resume as a PDF.
 [Extra Stuff](https://chocolate-point-2c8.notion.site/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0)
 
 Other interests.
+
+---
+
+## Cool Stats
+
+<div align="center">
+
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
