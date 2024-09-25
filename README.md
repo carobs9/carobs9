@@ -1,12 +1,14 @@
 <p align="center"> <!-- SOURCE: https://github.com/drkostas/drkostas/blob/main/README.md?plain=1 -->
 <a href="https://github.com/carobs9">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Carolina+Branas;Student+%7C+Research+Assistant;University+of+Copenhagen" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Menlo&size=20&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Carolina+Branas;Student+%7C+Research+Assistant;University+of+Copenhagen&color=7D3C98" alt="Typing SVG" />
 </a>
 <br/> 
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJqOTB0dWkxZGIwMnhiNmx0OXcyYXY0N3c2MzlxemljemtoMmF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ji6zzUZwNIuLS/giphy.gif" width="100"/>
 </div>
+
+---
 
 <p align="center"> 
   Congrats! You just increased the visitor count<br>
