@@ -4,6 +4,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJqOTB0dWkxZGIwMnhiNmx0OXcyYXY0N3c2MzlxemljemtoMmF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ji6zzUZwNIuLS/giphy.gif" width="100"/>
 </div>
 
+<p align="center">
+  <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">Website</a> •
+  <a href="https://twitter.com/JasonEtco">LinkedIn</a>
+</p>
+
 ## About Me
 
 > [Social Data Science MSc Student](https://studies.ku.dk/masters/social-data-science/) | [University of Copenhagen](https://www.ku.dk/english/)
@@ -41,7 +46,7 @@ Other interests.
 
 ---
 
-# GitHub Projects
+# Some GitHub Projects
 
 [https://github.com/carobs9/machine-learning-basics](https://github.com/carobs9/machine-learning-basics)
 
@@ -55,7 +60,7 @@ Other interests.
 
 ---
 
-[GitHub](https://github.com/carobs9) 
+[Website]([https://github.com/carobs9](https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4)) 
 
 [LinkedIn](https://www.linkedin.com/in/carolinabranas/)
 
