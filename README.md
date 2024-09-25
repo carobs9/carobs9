@@ -27,7 +27,7 @@
 
 ## About Me
 
-> [Social Data Science MSc Student](https://studies.ku.dk/masters/social-data-science/) | [University of Copenhagen](https://www.ku.dk/english/)
+> [Social Data Science MSc Student](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 > 
 
 Particularly interested in machine learning, predictive analytics and natural language processing to study art, urban mobility and environmental issues.
