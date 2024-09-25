@@ -15,15 +15,15 @@
 </p>
 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/carolinabranas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-<div id="badges">
   <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">
     <img src="https://img.shields.io/badge/Website-purple" alt="Website Badge"/>
   </a>
+</div>
+
 
 ## About Me
 
