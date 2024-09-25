@@ -1,9 +1,8 @@
 # Carolina Brañas
 
-<!-- SOURCE: https://github.com/drkostas/drkostas/blob/main/README.md?plain=1 -->
-<p align="center">
+<p align="center"> <!-- SOURCE: https://github.com/drkostas/drkostas/blob/main/README.md?plain=1 -->
 <a href="https://github.com/carobs9">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Carolina+Branas;RA+%7C+Student;+%7C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Carolina+Branas;Student+%7C+Research+Assistant;University+of+Copenhagen" alt="Typing SVG" />
 </a>
 <br/> 
 
