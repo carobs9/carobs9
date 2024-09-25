@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">Website</a> •
-  <a href="https://twitter.com/JasonEtco">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
 ## About Me
@@ -55,14 +55,6 @@ Other interests.
 [https://github.com/carobs9/CycleGAN_Monet](https://github.com/carobs9/CycleGAN_Monet)
 
 [https://github.com/carobs9/thesis_project](https://github.com/carobs9/thesis_project)
-
-# Contact
-
----
-
-[Website]([https://github.com/carobs9](https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4)) 
-
-[LinkedIn](https://www.linkedin.com/in/carolinabranas/)
 
 
 
