@@ -4,10 +4,26 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJqOTB0dWkxZGIwMnhiNmx0OXcyYXY0N3c2MzlxemljemtoMmF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ji6zzUZwNIuLS/giphy.gif" width="100"/>
 </div>
 
+<p align="center"> 
+  Congrats! You just increased the visitor count<br>
+  <img src="https://profile-counter.glitch.me/carobs9/count.svg" />
+</p>
+
 <p align="center">
   <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">Website</a> •
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/carolinabranas/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/carolinabranas/](https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">
+    <img src="https://img.shields.io/badge/Website-purple" alt="Website Badge"/>
+  </a>
 
 ## About Me
 
