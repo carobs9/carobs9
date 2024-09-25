@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
-
+<!--  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/carolinabranas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Website-purple" alt="Website Badge"/>
   </a>
 </div>
-
+-->
 
 ## About Me
 
@@ -32,7 +32,6 @@
 
 Particularly interested in machine learning, predictive analytics and natural language processing to study art, urban mobility and environmental issues.
 
----
 
 [Even More About Me](https://chocolate-point-2c8.notion.site/About-Me-c65d19114e644391acf0beefd37d1880)
 
@@ -50,10 +49,10 @@ See my full resume as a PDF.
 
 Other interests.
 
----
 
-## Cool Stats
-
+## Cool Stats 
+<!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
+<!--SOURCE for the great looking GitHub Streak layout: https://git.io/streak-stats -->
 <div align="center">
 
 ![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
@@ -64,7 +63,6 @@ Other interests.
 
 </div>
 
----
 
 # Some GitHub Projects
 
