@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">Website</a> •
+  <a href="https://carobs9.github.io/">Website</a> •
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
