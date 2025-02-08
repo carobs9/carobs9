@@ -33,27 +33,10 @@
 
 ## About Me
 
-> [Social Data Science MSc Student](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
+> [Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 > 
 
 Particularly interested in machine learning, predictive analytics and natural language processing to study art, urban mobility and environmental issues.
-
-
-[Even More About Me](https://chocolate-point-2c8.notion.site/About-Me-c65d19114e644391acf0beefd37d1880)
-
-Interests, work and academics.
-
-[Coding Projects](https://chocolate-point-2c8.notion.site/Coding-Projects-081b64771ead4574883b2ee3d90cd4b0)
-
-Academic and for fun coding-related projects. 
-
-[Resume](https://chocolate-point-2c8.notion.site/Resume-2817f565dc1f4379869e4d8e44e91503)
-
-See my full resume as a PDF.
-
-[Extra Stuff](https://chocolate-point-2c8.notion.site/Extra-Stuff-f6c06104dfb84999b7fd83c148dcfda0)
-
-Other interests.
 
 
 ## Cool Stats 
@@ -68,18 +51,4 @@ Other interests.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
-
-
-# Some GitHub Projects
-
-[https://github.com/carobs9/machine-learning-basics](https://github.com/carobs9/machine-learning-basics)
-
-[https://github.com/carobs9/NLP](https://github.com/carobs9/NLP)
-
-[https://github.com/carobs9/CycleGAN_Monet](https://github.com/carobs9/CycleGAN_Monet)
-
-[https://github.com/carobs9/thesis_project](https://github.com/carobs9/thesis_project)
-
-
-
 
