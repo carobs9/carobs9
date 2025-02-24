@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-    Congrats! You just increased the visitor count:<br>
+    Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/carobs9/count.svg" />
 </p>
 
@@ -34,11 +34,6 @@
 ## About Me
 
 > [Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
-> 
-
-Particularly interested in machine learning, predictive analytics and natural language processing to study art, urban mobility and environmental issues.
-
-> [carobs9](https://carobs9.github.io/)
 
 ## Cool Stats 
 <!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
