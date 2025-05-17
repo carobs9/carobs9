@@ -32,11 +32,14 @@
 -->
 
 <p align="center">
-    Visitor Count by Country (from May 17, 2025):<br>
+    Map of Visitor Count by Country (from May 17, 2025):<br>
 <a href="https://info.flagcounter.com/3Hix"><img src="https://s01.flagcounter.com/map/3Hix/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </p>
-
+<p align="center">
+    Visitor Count by Country (from May 17, 2025):<br>
 <a href="https://info.flagcounter.com/0y08"><img src="https://s01.flagcounter.com/countxl/0y08/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_15/viewers_Visitors+by+Country+/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</p>
+
 
 ## About Me
 
