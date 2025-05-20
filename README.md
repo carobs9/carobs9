@@ -1,9 +1,4 @@
-<p align="center"> <!-- SOURCE: https://github.com/drkostas/drkostas/blob/main/README.md?plain=1 -->
-<a href="https://github.com/carobs9">
-    <img src="https://readme-typing-svg.demolab.com?font=Comic Sans&size=20&duration=2000&pause=100&multiline=true&width=800&height=80&lines=Carolina+Brañas Soria;Social Data Science MSc Graduate+%7C+Research+Assistant;University+of+Copenhagen&color=BFD7B5" alt="Typing SVG" />
-</a>
-<br/> 
-
+[![starline](https://starlines.qoo.monster/assets/carobs9)](https://github.com/qoomon/starline)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47zbb8pzsbx8uoydl6vckwdepk8oxzczi5geq2mbvj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
