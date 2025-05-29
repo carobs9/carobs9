@@ -6,13 +6,16 @@
 ---
 
 <p align="center">
-    Visitor Count:<br>
-  <img src="https://profile-counter.glitch.me/carobs9/count.svg" />
-</p>
-
-<p align="center">
   <a href="https://carobs9.github.io/">Website</a> •
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
+</p>
+
+---
+## Other Platforms
+
+<p align="center">
+    Visitor Count:<br>
+  <img src="https://profile-counter.glitch.me/carobs9/count.svg" />
 </p>
 
 ---
