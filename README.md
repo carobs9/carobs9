@@ -10,9 +10,24 @@
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
----
+## About Me
 
-## Visitors
+> [Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
+
+## Cool Stats 
+<!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
+<!--SOURCE for the great looking GitHub Streak layout: https://git.io/streak-stats -->
+<div align="center">
+
+![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 <p align="center">
     Visitor Count:<br>
@@ -30,10 +45,13 @@
 </div>
 -->
 
+---
+
 #### Map of Visitor Count by Country (from May 17, 2025)
 <p align="center">
 <a href="https://info.flagcounter.com/3Hix"><img src="https://s01.flagcounter.com/map/3Hix/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 </p>
+---
 
 #### Visitor Count by Country (from May 17, 2025)
 <p align="center">
@@ -42,20 +60,4 @@
 
 ---
 
-## About Me
-
-> [Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
-
-## Cool Stats 
-<!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
-<!--SOURCE for the great looking GitHub Streak layout: https://git.io/streak-stats -->
-<div align="center">
-
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-</div>
 
