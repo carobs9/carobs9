@@ -15,6 +15,8 @@
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
+---
+
 <!--  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/carolinabranas/">
@@ -35,6 +37,7 @@
 <a href="https://info.flagcounter.com/0y08"><img src="https://s01.flagcounter.com/countxl/0y08/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_15/viewers_Visitors+by+Country+/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </p>
 
+---
 
 ## About Me
 
