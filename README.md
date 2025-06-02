@@ -3,6 +3,14 @@
   <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47zbb8pzsbx8uoydl6vckwdepk8oxzczi5geq2mbvj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
+```csharp
+carobs9@github
+-------------------------
+Location: Copenhage, DK
+Languages: Python, HTML, CSS
+Other Platforms: <a href="https://carobs9.github.io/">Website</a> and <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
+Discord: RandomPotato#1377
+```
 ## Other Platforms
 
 <p align="center">
