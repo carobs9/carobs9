@@ -1,6 +1,4 @@
-<div id="header" align="center">
 [![starline](https://starlines.qoo.monster/assets/karpathy/micrograd)](https://github.com/qoomon/starline)
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47zbb8pzsbx8uoydl6vckwdepk8oxzczi5geq2mbvj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
