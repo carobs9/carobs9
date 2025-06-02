@@ -5,9 +5,7 @@
 
 ## About Me
 
-<p align="center">
-[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
-</p>
+>[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 
 <p align="center">
   <a href="https://carobs9.github.io/">Website</a> •
