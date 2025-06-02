@@ -3,13 +3,13 @@
   <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif?cid=ecf05e47zbb8pzsbx8uoydl6vckwdepk8oxzczi5geq2mbvj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-```csharp
+```python
 carobs9@github
 -------------------------
-Location: Copenhage, DK
+Location: Copenhagen, DK
+About Me: > [Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 Languages: Python, HTML, CSS
-Other Platforms: <a href="https://carobs9.github.io/">Website</a> and <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
-Discord: RandomPotato#1377
+Other Platforms: [Website](https://carobs9.github.io/) and [LinkedIn](https://www.linkedin.com/in/carolinabranas/) 
 ```
 ## Other Platforms
 
