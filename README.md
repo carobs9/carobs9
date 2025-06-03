@@ -1,9 +1,9 @@
 <!--[![starline](https://starlines.qoo.monster/assets/karpathy/micrograd)](https://github.com/qoomon/starline) -->
 
 <a href="https://github.com/carobs9/carobs9">
-  <picture>
+  <picture align="center">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carobs9/carobs9/main/ascii-art (3).png">
-    <img alt="Andrew Grant's GitHub Profile README" 
+    <img alt="Profile Pic" 
       src="https://raw.githubusercontent.com/carobs9/carobs9/main/ascii-art (3).png"
       width="300"
       heigh="300">
