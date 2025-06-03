@@ -3,7 +3,10 @@
 <a href="https://github.com/carobs9/carobs9">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carobs9/carobs9/main/ascii-art (3).png">
-    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/carobs9/carobs9/main/ascii-art (3).png">
+    <img alt="Andrew Grant's GitHub Profile README" 
+      src="https://raw.githubusercontent.com/carobs9/carobs9/main/ascii-art (3).png"
+      width="300"
+      heigh="300">
   </picture>
 </a>
 
