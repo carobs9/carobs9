@@ -27,15 +27,15 @@
 
 ```javascript
 const carobs9 = {
-  location: "copenhagen" | "denmark",
+  location: "copenhagen, denmark",
   code: [mostly Python | some HTML, CSS],
   tools: [Git, Docker],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  experience: {
+                        marketing strategy intern: "CrescendoCollective",
+                        data analyst: "AboveSports",
+                        research assistant: "UniversityOfCopenhagen"
                       },
- about me: "research assistant"
+ last news: "not many!"
 }
 ```
 
