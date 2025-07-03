@@ -48,7 +48,7 @@ const carobs9 = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carobs9&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=carobs9)](https://git.io/streak-stats)
 
 </div>
 
