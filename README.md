@@ -32,7 +32,7 @@ const carobs9 = {
   tools: [Git, Docker],
   experience: {
                         marketing strategy intern: "CrescendoCollective",
-                        data analyst: "AboveSports",
+                        data scientist: "AboveSports",
                         research assistant: "UniversityOfCopenhagen"
                       },
  last news: "not many!"
