@@ -26,7 +26,7 @@
 >[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 
 ```javascript
-const carobs9 = {
+carobs9 = {
   location: "copenhagen, denmark",
   code: [mostly Python | some HTML, CSS],
   tools: [Git, Docker],
