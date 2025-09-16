@@ -39,7 +39,7 @@ carobs9 = {
 }
 ```
 
-## Cool Stats 
+## Stats 
 <!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
 <!--SOURCE for the great looking GitHub Streak layout: https://git.io/streak-stats -->
 <div align="center">
@@ -51,22 +51,3 @@ carobs9 = {
 [![GitHub Streak](https://streak-stats.demolab.com/?user=carobs9)](https://git.io/streak-stats)
 
 </div>
-
-### Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/carobs9/count.svg" />
-</p>
-
-<!--  
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/carolinabranas/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<a href="https://chocolate-point-2c8.notion.site/Carolina-Bra-as-df7a7c372d3d4d4088bcbd8430ff6889?pvs=4">
-    <img src="https://img.shields.io/badge/Website-carobs9-red?style=flat-square">
-</a> 
-</div>
--->
-
-
