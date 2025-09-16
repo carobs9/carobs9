@@ -27,15 +27,14 @@
 
 ```javascript
 carobs9 = {
-  location: "copenhagen, denmark",
+  location: "Copenhagen, Denmark",
   code: [mostly Python | some HTML, CSS],
-  tools: [Git, Docker],
   experience: {
                         marketing strategy intern: "CrescendoCollective",
                         data scientist: "AboveSports",
                         research assistant: "UniversityOfCopenhagen"
                       },
- last news: "not many!"
+ last news: "not many"
 }
 ```
 
