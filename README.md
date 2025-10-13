@@ -25,18 +25,6 @@
 
 >[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 
-```javascript
-carobs9 = {
-  location: "Copenhagen, Denmark",
-  code: [mostly Python | some HTML, CSS],
-  experience: {
-                        marketing strategy intern: "CrescendoCollective",
-                        data scientist: "AboveSports",
-                        research assistant: "UniversityOfCopenhagen"
-                      },
- last news: "not many"
-}
-```
 
 ## Stats 
 <!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
