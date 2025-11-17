@@ -25,16 +25,3 @@
 
 >[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.economics.ku.dk/research/externally-funded-research_new/shocking-religion/) | [University of Copenhagen](https://www.ku.dk/english/)
 
-
-## Stats 
-<!--SOURCE for the great looking stats layout: https://github.com/anuraghazra/github-readme-stats -->
-<!--SOURCE for the great looking GitHub Streak layout: https://git.io/streak-stats -->
-<div align="center">
-
-![Caro's GitHub stats](https://github-readme-stats.vercel.app/api?username=carobs9&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carobs9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=carobs9)](https://git.io/streak-stats)
-
-</div>
