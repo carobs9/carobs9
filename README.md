@@ -23,5 +23,5 @@
 
 ## About Me
 
->[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf25-1677/)| [University of Copenhagen](https://www.ku.dk/english/) 
+>[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf25-1677/) |  [University of Copenhagen](https://www.ku.dk/english/) 
 
