@@ -25,3 +25,10 @@
 
 >[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf25-1677/) |  [University of Copenhagen](https://www.ku.dk/english/) 
 
+## Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/carobs9/repo-name-1">Project 1</a> •
+  <a href="https://github.com/carobs9/repo-name-2">Project 2</a> •
+  <a href="https://github.com/carobs9/repo-name-3">Project 3</a>
+</p>
