@@ -27,21 +27,15 @@
 
 ## Pinned Projects
 
-**Urban Mobility & Computational Social Science**
-<p align="center">
-  <a href="https://github.com/carobs9/segregation-madrid">Mobility and Income Segregation in Madrid</a> •
-  <a href="https://github.com/emmastoklee/GDS_project">Montreal in 15 Minutes</a>
-</p>
+### Urban Mobility & Computational Social Science
+[![Madrid Segregation](https://img.shields.io/badge/Mobility_&_Segregation_in_Madrid-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/segregation-madrid)
+[![Montreal](https://img.shields.io/badge/Montreal_in_15_Minutes-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emmastoklee/GDS_project)
 
-**Machine Learning & Computer Vision**
-<p align="center">
-  <a href="https://github.com/carobs9/brain-tumor-detection">Brain Tumor Detection</a> •
-  <a href="https://github.com/carobs9/breast-cancer-pred">Breast Cancer Detection</a> •
-  <a href="https://github.com/carobs9/CycleGAN_Monet">CycleGAN Monet</a>
-</p>
+### Machine Learning & Computer Vision
+[![Brain Tumor](https://img.shields.io/badge/Brain_Tumor_Detection-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/brain-tumor-detection)
+[![Breast Cancer](https://img.shields.io/badge/Breast_Cancer_Detection-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/breast-cancer-pred)
+[![CycleGAN](https://img.shields.io/badge/CycleGAN_Monet-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/CycleGAN_Monet)
 
-**NLP & Tooling**
-<p align="center">
-  <a href="https://github.com/carobs9/llm-pdf-retrieval">PDF Retrieval using LLM</a> •
-  <a href="https://github.com/carobs9/dir_to_graph">dir-to-graph</a>
-</p>
+### NLP 
+[![PDF Retrieval](https://img.shields.io/badge/PDF_Retrieval_with_LLM-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/llm-pdf-retrieval)
+[![dir-to-graph](https://img.shields.io/badge/dir--to--graph-059669?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carobs9/dir_to_graph)
