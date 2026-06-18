@@ -21,9 +21,11 @@
   <a href="https://www.linkedin.com/in/carolinabranas/">LinkedIn</a>
 </p>
 
+<a href="#carobs9-stats"><img src="https://raw.githubusercontent.com/carobs9/github-stats-transparent/output/generated/overview.svg" alt="carobs9-stats" align="right" /></a>
+
 ## About Me
 
->[Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [Research Assistant](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf25-1677/) |  [University of Copenhagen](https://www.ku.dk/english/) 
+>[📚:Social Data Science MSc Graduate](https://studies.ku.dk/masters/social-data-science/) and [:computer: Research Assistant](https://www.carlsbergfondet.dk/en/what-we-have-funded/cf25-1677/) |  [University of Copenhagen](https://www.ku.dk/english/) 
 
 ## Pinned Projects
 
