@@ -18,7 +18,7 @@
 - [Montreal in 15 Minutes](https://github.com/emmastoklee/GDS_project)
 
 ### Machine Learning & Computer Vision
-- [Brain Tumor Detection](https://github.com/carobs9/brain-tumor-detection)
+- [Brain Tumor Detection (in progress)](https://github.com/carobs9/brain-tumor-detection)
 - [Breast Cancer Detection](https://github.com/carobs9/breast-cancer-pred)
 - [CycleGAN Monet](https://github.com/carobs9/CycleGAN_Monet)
 
